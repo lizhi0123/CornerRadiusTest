@@ -30,7 +30,8 @@
 ![image.png](http://upload-images.jianshu.io/upload_images/2384741-64880234ba37da15.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 运行........
-######1.正常 无圆角 Frames Per Second 大概是50多。下方截图 ↓
+
+###### 1.正常 无圆角 Frames Per Second 大概是50多。下方截图 ↓
 
 ![正常无圆角 效果图](http://upload-images.jianshu.io/upload_images/2384741-c0433ca1e2bccd4f.PNG?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
 
