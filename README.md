@@ -1,7 +1,5 @@
 简书链接：http://www.jianshu.com/p/13820dbf5d20
 ###  ios 圆角 cornerRadius 对性能的影响究竟多大？ 你测试过吗？
-###  ios 圆角 cornerRadius 对性能的影响究竟多大？ 你测试过吗？
-###  ios 圆角 cornerRadius 对性能的影响究竟多大？ 你测试过吗？
 
 网上对”圆角设置“ 有很多说法，没有统一的说法，还有面试的时候被问到，所以今天打算 亲自试验下
 #### 项目
